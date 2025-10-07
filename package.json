@@ -1,0 +1,25 @@
+{
+  "name": "web-demo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/LeNgocBao145/web-demo#readme",
+  "bugs": {
+    "url": "https://github.com/LeNgocBao145/web-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeNgocBao145/web-demo.git"
+  },
+  "license": "ISC",
+  "author": "lengocbao",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodejs": "^0.0.0"
+  }
+}
